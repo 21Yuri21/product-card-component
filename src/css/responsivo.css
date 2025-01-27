@@ -1,0 +1,56 @@
+@media (max-width: 1520px) {
+    html {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        justify-items: center;
+    }
+
+    .logo {
+        margin-left: 20px;
+    }
+
+    .plano-de-fundo {
+        display: flex;
+        gap: 25vh;
+        height: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .img {
+        height: 30vh;
+        margin-left: -4vh;
+    }
+
+    .rodape {
+        display: flex;
+        align-self: center;
+        margin-top: -15vh;
+        margin-left: 35px;
+    }
+
+    .conteudo {
+        margin-right: 9vh;
+
+
+    }
+
+    p {
+        margin-left: 25px;
+        font-size: 23px;
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 27px;
+        text-align: center;
+    }
+
+    .botao {
+        width: 42vh;
+        height: 7vh;
+        margin-left: 35px;
+    }
+
+}
